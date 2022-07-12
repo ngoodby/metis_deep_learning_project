@@ -1,0 +1,5 @@
+*.DS_Store
+input*
+.ipynb_checkpoints*
+models*
+
