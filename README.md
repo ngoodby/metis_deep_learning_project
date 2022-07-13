@@ -24,5 +24,5 @@ Several convolutional neural network models were trained and tested. Accuracy wa
 
 ### Communication
 
-- Slides summarizing the project's findings can be found [here](
+- Slides summarizing the project's findings can be found [here](https://github.com/ngoodby/Metis-Deep-Learning-Project/blob/master/deep_learning_slides.pdf)
 - A graphic summarizing the final model can be found [here](
